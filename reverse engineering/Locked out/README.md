@@ -1,11 +1,13 @@
-Locked Out
+# Locked Out
 
-Description
+## Description
 
 This is a fancy looking lock, I wonder what would happen if you broke it open?
 
-Resolution
+## Resolution
 
+We analyse the structure of directory 
+```sh
 [adversary ~]$ ls -l
 total 8
 drwxr-xr-x. 2 root root 4096 Sep 11 11:04 lockedout
@@ -20,7 +22,8 @@ total 20
 [adversary ~/lockedout]$ ./lock
 This is a pesky lock.. do you think you can open it?
 Enter key:
-
+```
+We have an suid elf lock and file called flag.txt
 
 It ask us a key so let's try to find it .
 
@@ -385,6 +388,7 @@ arg[1]: 0x56558980 ("aXat9r45UtyMjw4i5Wh8swVWmEg3vAbWZaijTWP8")
  9dc:	c3                   	ret    
  9dd:	8d 76 00             	lea    esi,[esi+0x0]
  9e0:	f3 c3                	repz ret 
+
 
 ####################################################################################################################
 
