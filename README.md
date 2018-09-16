@@ -22,7 +22,7 @@ Modern Picasso                 Forensics      150    IceCTF{wow_fast}
 Hard Shells                    Forensics      200    IceCTF{look_away_i_am_hacking}
 Lost in the Forest             Forensics      300
 
-garfeld                       Cryptography   100    IceCTF{I_DONT_THINK_GRONSFELD_LIKES_MONDAYS}
+garfeld                        Cryptography   100    IceCTF{I_DONT_THINK_GRONSFELD_LIKES_MONDAYS}
 Posted!                        Cryptography   250
 Think outside the key!         Cryptography   200
 Ancient Foreign Communications Cryptography   300
