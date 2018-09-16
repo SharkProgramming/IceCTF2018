@@ -59,5 +59,6 @@ Try to hex edit this file in order to have more information
 
 
 It's possible that's dat is an PNG file .
-Modify PUG with PNG et try to open the image
+Modify PUG with PNG and try to open the image
 
+IceCTF{look_away_i_am_hacking}
