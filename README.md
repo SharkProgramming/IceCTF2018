@@ -16,7 +16,7 @@ History of Computing           Web            350    External : https://ctftime.
 
 Simple Overflow                Binary         250    Challenge auto-validate
 Cave                           Binary         50     IceCTF{i_dont_think_caveman_overflowed_buffers}
-Twitter                        Binary         800
+Twitter                        Binary         800    External : https://ctftime.org/writeup/11047
 
 Modern Picasso                 Forensics      150    IceCTF{wow_fast}
 Hard Shells                    Forensics      200    IceCTF{look_away_i_am_hacking}
