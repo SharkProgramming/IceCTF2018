@@ -12,7 +12,7 @@ Title                          Category       Points Flag
 Toke Relaunch                  Web            50     IceCTF{what_are_these_robots_doing_here}
 Lights out                     Web            75     IceCTF{styles_turned_the_lights}
 Friðfinnur                     Web            200    IceCTF{you_found_debug}
-History of Computing           Web            350
+History of Computing           Web            350    External : https://ctftime.org/writeup/11122
 
 Simple Overflow                Binary         250    Challenge auto-validate
 Cave                           Binary         50     IceCTF{i_dont_think_caveman_overflowed_buffers}
