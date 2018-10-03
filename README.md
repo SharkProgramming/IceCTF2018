@@ -32,11 +32,11 @@ Hot or Not                     Steganography  300
 Rabbit Hole                    Steganography  400
 
 Locked Out                     Reversing      200     IceCTF{you_m3ddling_k1ds}
-Poke-A-Mango                   Reversing      250
+Poke-A-Mango                   Reversing      250     External : https://ctftime.org/writeup/11420
 Passworded!                    Reversing      400
 
 Hello World!                   Misc           10      IceCTF{this_is_a_flag}
-anticaptcha                    Misc           250
+anticaptcha                    Misc           250     External : https://github.com/d4rkvaibhav/IceCTF-2018/tree/master/Miscellaneous
 ilovebees                      Misc           199     IceCTF{MY_FAVORITE_ICON}
 Secret Recipe                  Misc           290
 ```
